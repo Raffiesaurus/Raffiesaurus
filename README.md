@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Research Assistant at Abertay University. <br>I have an MSc in Computer Games Technology and a BE in Computer Science Engineering.<br>My fascination with gaming began at the age of four when I was introduced to Pokémon Sapphire by my sister, sparking a lifelong passion for both playing and creating games. With a deep interest in gaming and esports, I am driven to combine creativity and technical expertise to push the boundaries of interactive entertainment<br>
+Gameplay engineer with 3+ years experience across commercial games, VR research, and live service ecosystems. Skilled in Unity (C#), Unreal Engine 5 (C++, Blueprints), Python tooling, and performance profiling. Currently working on networked multiplayer systems for ProLogVR at TH Köln; previously contributed gameplay systems for Soukh and supported live games at Hammerplay Studios. Focused on building robust, optimized systems and collaborative development.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raffiesaurus)
