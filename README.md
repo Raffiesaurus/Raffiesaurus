@@ -31,13 +31,3 @@ Game programmer with 3+ years of experience shipping commercial games and VR res
 | [DraftBot](https://github.com/Raffiesaurus/DraftBot) | Automated FIFA draft helper bot | Python · discord.py |
 
 ---
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raffiesaurus&theme=ocean_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raffiesaurus/Raffiesaurus/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raffiesaurus/Raffiesaurus/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Raffiesaurus/Raffiesaurus/output/pacman-contribution-graph.svg">
-</picture>
