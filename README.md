@@ -23,12 +23,12 @@ Game programmer with 3+ years of experience shipping commercial games and VR res
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Tank Battle Royale](https://github.com/Raffiesaurus/Tank-Battle-Royale) | Top-down battle royale for up to 16 players | UE4 · C++ · Blueprints |
+| [Tank Battle Royale](https://github.com/Raffiesaurus/Tank-Battle-Royale) | Top-down battle royale | UE4 · C++ · Blueprints |
 | [conv-reverb-plugin-ue5](https://github.com/Raffiesaurus/conv-reverb-plugin-ue5) | Real-time convolution reverb plugin for UE5 | C++ · MetaSounds · UE5 |
 | [Project Vector](https://github.com/Raffiesaurus/Project-Vector-SFML) | 2D top-down multiplayer shooter | C++ · SFML · Client-Server |
-| [The Bow Fighters](https://github.com/Raffiesaurus/the-bow-fighters) | Fast-paced multiplayer archery game | TypeScript · Colyseus |
+| [The Bow Fighters](https://github.com/Raffiesaurus/the-bow-fighters) | Turn based archery game | Cocos Creator · TypeScript |
 | [DotaDiscBot](https://github.com/Raffiesaurus/DotaDiscBot) | Discord bot for live Dota 2 match info | Python · discord.py |
-| [DraftBot](https://github.com/Raffiesaurus/DraftBot) | Automated draft helper bot | Python |
+| [DraftBot](https://github.com/Raffiesaurus/DraftBot) | Automated FIFA draft helper bot | Python · discord.py |
 
 ---
 
