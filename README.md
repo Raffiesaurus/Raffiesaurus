@@ -6,7 +6,7 @@ I care about systems that feel good with clean architecture, tight input, and co
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://raffiesaurus.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raffiesaurus)
-[![itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=flat&logo=itch.io&logoColor=white)](https://raffie.itch.io)
+[![itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=flat&logo=itch.io&logoColor=white)](https://raffiesaurus.itch.io)
 
 ---
 
